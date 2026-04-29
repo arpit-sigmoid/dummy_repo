@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,phone,hire_date,job_title,department_id,salary
+1,Amit,Sharma,amit.sharma@example.com,9876543210,2022-01-15,Software Engineer,1,60000
+2,Priya,Verma,priya.verma@example.com,9876543211,2021-03-20,HR Manager,2,75000
+3,Rahul,Mehta,rahul.mehta@example.com,9876543212,2020-07-10,Accountant,3,50000
+4,Sneha,Reddy,sneha.reddy@example.com,9876543213,2023-02-05,Marketing Executive,4,45000
+5,Arjun,Nair,arjun.nair@example.com,9876543214,2019-11-25,Sales Manager,5,80000
+6,Neha,Gupta,neha.gupta@example.com,9876543215,2022-06-18,Data Analyst,1,65000
+7,Vikram,Singh,vikram.singh@example.com,9876543216,2021-09-12,System Admin,1,55000
+8,Anjali,Kulkarni,anjali.kulkarni@example.com,9876543217,2020-04-30,HR Executive,2,40000
+9,Rohit,Das,rohit.das@example.com,9876543218,2023-01-01,Intern,1,20000
+10,Kavya,Iyer,kavya.iyer@example.com,9876543219,2021-08-08,Finance Manager,3,90000
+11,Manish,Yadav,manish.yadav@example.com,9876543220,2018-12-12,Sales Executive,5,42000
+12,Pooja,Patel,pooja.patel@example.com,9876543221,2022-10-10,Marketing Manager,4,70000
+13,Deepak,Chopra,deepak.chopra@example.com,9876543222,2020-05-22,Account Executive,3,48000
+14,Ritu,Saxena,ritu.saxena@example.com,9876543223,2019-03-14,HR Assistant,2,35000
+15,Karan,Malhotra,karan.malhotra@example.com,9876543224,2023-03-03,Software Tester,1,40000
+16,Meera,Pillai,meera.pillai@example.com,9876543225,2021-06-06,Content Writer,4,38000
+17,Suresh,Kumar,suresh.kumar@example.com,9876543226,2017-09-19,Operations Manager,6,85000
+18,Nisha,Bansal,nisha.bansal@example.com,9876543227,2022-11-11,Customer Support,7,30000
+19,Ajay,Mishra,ajay.mishra@example.com,9876543228,2020-02-28,Sales Associate,5,37000
+20,Divya,Joshi,divya.joshi@example.com,9876543229,2023-04-01,Business Analyst,6,72000

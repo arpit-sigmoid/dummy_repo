@@ -1,0 +1,40 @@
+# ETL Pipeline Configuration
+
+# File paths
+input_file: "data/orders.json"
+output_file: "data/region_revenue.csv"
+log_file: "etl_pipeline.log"
+
+# Required columns for validation
+required_columns:
+  - "order_id"
+  - "customer_id"
+  - "region"
+  - "amount"
+  - "order_date"
+
+# Valid region values
+valid_regions:
+  - "North"
+  - "South"
+  - "East"
+  - "West"
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Performance configuration for large datasets
+performance:
+  chunk_size: 100000  # Number of records to process at a time (None for all at once)
+
+# Snowflake configuration (optional)
+snowflake:
+  user: "YOUR_USER"
+  password: "YOUR_PASSWORD"
+  account: "YOUR_ACCOUNT"
+  warehouse: "YOUR_WAREHOUSE"
+  database: "YOUR_DATABASE"
+  schema: "YOUR_SCHEMA"
+  table: "orders_summary"

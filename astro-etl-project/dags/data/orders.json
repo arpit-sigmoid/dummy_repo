@@ -1,0 +1,12 @@
+{"order_id": 1, "customer_id": 101, "region": "North", "amount": 150.50, "order_date": "2024-01-15"}
+{"order_id": 2, "customer_id": 102, "region": "South", "amount": 200.00, "order_date": "2024-01-16"}
+{"order_id": 3, "customer_id": 103, "region": "East", "amount": -50.00, "order_date": "2024-01-17"}
+{"order_id": 4, "customer_id": 104, "region": "West", "amount": null, "order_date": "2024-01-18"}
+{"order_id": 5, "customer_id": 105, "region": "North", "amount": 300.75, "order_date": "2024-01-19"}
+{"order_id": 6, "customer_id": 106, "region": "South", "amount": 175.25, "order_date": "2024-01-20"}
+{"order_id": 7, "customer_id": 107, "region": "East", "amount": 0.00, "order_date": "2024-01-21"}
+{"order_id": 8, "customer_id": 108, "region": "West", "amount": 450.00, "order_date": "2024-01-22"}
+{"order_id": 9, "customer_id": 109, "region": "North", "amount": null, "order_date": "2024-01-23"}
+{"order_id": 10, "customer_id": 110, "region": "South", "amount": -25.00, "order_date": "2024-01-24"}
+{"order_id": 5, "customer_id": 111, "region": "North", "amount": 125.00, "order_date": "2024-01-25"}
+{"order_id": 11, "customer_id": 112, "region": "Central", "amount": 99.99, "order_date": "2024-01-26"}

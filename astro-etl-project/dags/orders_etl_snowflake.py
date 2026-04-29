@@ -1,7 +1,5 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from airflow.providers.snowflake.operators.snowflake import SnowflakeOperator
-from airflow.providers.snowflake.transfers.snowflake_to_snowflake import SnowflakeToSnowflakeOperator
 from datetime import datetime, timedelta
 import pandas as pd
 import json

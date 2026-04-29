@@ -85,7 +85,7 @@ jobs:
         python3 etl_pipeline.py
     
     - name: Upload output artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: etl-output
         path: day02/data/region_revenue.csv
